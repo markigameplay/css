@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: antiquewhite;
+
+}
+body{
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+.titulo{
+    display: flexbox;
+    text-align: center;
+}
+nav {
+    background: #333;
+    padding: 15px auto;
+    text-align: center;
+    padding: auto;
+}
+
+nav a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    display: inline-block;
+    padding: auto;
+}
+nav :hover{
+    background-color: black;
+}
+.css-typing{
+
+background-color: aquamarine;
+
+}
+.css-typing p{
+    color: black;
+}
+.subtitulo{
+    
+}
